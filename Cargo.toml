@@ -1,5 +1,5 @@
 [package]
-name = "split-gpg-user"
+name = "split_gpg_user"
 version = "0.1.0"
 authors = ["Valentin Lorentz <progval+split-gpg@progval.net>"]
 
